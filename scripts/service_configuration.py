@@ -5,7 +5,7 @@ import tqdm
 # import rospy
 
 configuration_number = 3.29
-version = "0.0.3"
+version = "0.0.4"
 
 print("Service package 1: ver. {}".format(version))
 time.sleep(0.8)
