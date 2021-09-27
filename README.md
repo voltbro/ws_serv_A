@@ -12,5 +12,5 @@ sudo catkin_make --pkg ws_serv_a
 
 Just run configure.launch
 ```
-roslaunch ws_serv_A start_configure.launch
+roslaunch ws_serv_a start_configure.launch
 ```
