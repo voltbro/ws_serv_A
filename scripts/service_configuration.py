@@ -4,8 +4,8 @@ import time
 import tqdm
 # import rospy
 
-configuration_number = 1903.2
-version = "0.0.6"
+configuration_number = 2103.2
+version = "0.0.7"
 
 print("Service package 1: ver. {}".format(version))
 time.sleep(0.8)

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>ws_serv_A</name>
-  <version>0.0.6</version>
+  <version>0.0.7</version>
   <description>The ws_serv_A package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
