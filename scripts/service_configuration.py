@@ -1,11 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import time
 import tqdm
 # import rospy
 
 configuration_number = 1903.2
-version = "0.0.5"
+version = "0.0.6"
 
 print("Service package 1: ver. {}".format(version))
 time.sleep(0.8)
