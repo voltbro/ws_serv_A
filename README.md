@@ -1,12 +1,12 @@
 ### Installation
 ```
-cd ~/ros_catkin_ws/src/
-git clone https://github.com/voltbro/ws_serv_A.git
+cd ~/catkin_ws/src/
+git clone https://github.com/voltbro/ws_serv_A.git ws_serv_a
 ```
 ### Compilation
 ```
-cd ~/ros_catkin_ws/
-sudo ./src/catkin/bin/catkin_make_isolated --install -DCMAKE_BUILD_TYPE=Release --install-space /opt/ros/melodic --pkg=ws_serv_A
+cd ~/catkin_ws/
+sudo catkin_make --pkg ws_serv_a
 ```
 ### Usage
 
