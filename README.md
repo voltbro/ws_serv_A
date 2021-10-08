@@ -14,3 +14,4 @@ Just run configure.launch
 ```
 roslaunch ws_serv_a start_configure.launch
 ```
+
