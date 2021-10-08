@@ -1,7 +1,7 @@
 ### Installation
 ```
 cd ~/catkin_ws/src/
-git clone https://github.com/voltbro/ws_serv_A.git ws_serv_a
+git clone https://github.com/voltbro/ws_serv_a.git 
 ```
 ### Compilation
 ```
